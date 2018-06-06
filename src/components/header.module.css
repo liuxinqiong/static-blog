@@ -1,0 +1,6 @@
+.constr { width: 1200px; margin-left: auto; margin-right: auto; }
+.header { background-color: #2A2C2E; }
+.nav { height: 60px; }
+.nav-list { float: left; font-size: 14px; font-weight: 400; }
+.nav-a { display: inline-block; line-height: 20px; padding: 20px 35px; color: #B5BDC0; text-decoration: none; }
+.nav-a:hover { color: #fff; }

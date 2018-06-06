@@ -3,3 +3,5 @@
 * [项目初始化和发布](/docs/starter.md)
 * [理论部分](/docs/base.md)
 * [实践部分](/docs/practice.md)
+
+* [DEMO演示](https://liuxinqiong.github.io/static-blog/)

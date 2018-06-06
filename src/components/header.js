@@ -1,31 +1,24 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import './header.css'
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
+  <div className='header'>
+    <div className="constr">
+        <div className="nav">
+            <h3 className="nav-list">
+              <Link to="/" className="nav-a">{siteTitle}</Link>
+            </h3>
+            <h3 className="nav-list">
+            	<Link to="/tags" className="nav-a">tags</Link>
+            </h3>
+            <h3 className="nav-list">
+            	<Link to="/contact" className="nav-a">contact</Link>
+            </h3>
+            <h3 className="nav-list">
+            	<Link to="/about" className="nav-a">about</Link>
+            </h3>
+        </div>
     </div>
   </div>
 )
