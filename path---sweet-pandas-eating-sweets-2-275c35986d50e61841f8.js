@@ -1,0 +1,2 @@
+webpackJsonp([0xe752c8b74388],{526:function(e,t){e.exports={data:{markdownRemark:{html:'<p>Pandas are really sweet.</p>\n<p>Here\'s a video of a panda eating sweets.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/4n0xNbfJLR8" frameborder="0" allowfullscreen></iframe>',frontmatter:{date:"August 10, 2017",title:"Sweet Pandas Eating Sweets"}}},pathContext:{slug:"/sweet-pandas-eating-sweets.2/"}}}});
+//# sourceMappingURL=path---sweet-pandas-eating-sweets-2-275c35986d50e61841f8.js.map

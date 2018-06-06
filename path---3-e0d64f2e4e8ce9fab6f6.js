@@ -1,0 +1,2 @@
+webpackJsonp([0xa66b96fba949],{513:function(e,t){e.exports={pathContext:{group:[{node:{id:"C:/Users/Administrator/Desktop/static-blog/posts/sweet-pandas-eating-sweets.md absPath of file >>> MarkdownRemark",fields:{slug:"/sweet-pandas-eating-sweets/"},frontmatter:{title:"Sweet Pandas Eating Sweets",tags:["Pandas","sweet"],date:"10 August, 2017"},excerpt:"Pandas are really sweet. Here's a video of a panda eating sweets."}}],pathPrefix:"",first:!1,last:!0,index:3,pageCount:3,additionalContext:{total:11}}}}});
+//# sourceMappingURL=path---3-e0d64f2e4e8ce9fab6f6.js.map
